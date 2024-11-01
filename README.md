@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Amira-Rayane!
 
 <p align="center">
-  <strong>Cloud & AI Solutions Expert</strong>  
+  <strong>☁Cloud & AI Solutions Expert 🤖</strong>  
 </p>
 
 Welcome to my GitHub! I'm a polyvalent technologist and researcher passionate about solving complex problems through innovative solutions in AI, Cloud Computing, Edge Computing, and Operations. My journey spans academia and industry, where I constantly explore the intersections of cutting-edge technology and practical application.
